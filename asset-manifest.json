@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-deploy/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/github-deploy/static/js/main.247fc239.chunk.js",
+    "main.js.map": "/github-deploy/static/js/main.247fc239.chunk.js.map",
+    "runtime-main.js": "/github-deploy/static/js/runtime-main.fbf3d50c.js",
+    "runtime-main.js.map": "/github-deploy/static/js/runtime-main.fbf3d50c.js.map",
+    "static/js/2.1a1057b0.chunk.js": "/github-deploy/static/js/2.1a1057b0.chunk.js",
+    "static/js/2.1a1057b0.chunk.js.map": "/github-deploy/static/js/2.1a1057b0.chunk.js.map",
+    "static/js/3.105cecaa.chunk.js": "/github-deploy/static/js/3.105cecaa.chunk.js",
+    "static/js/3.105cecaa.chunk.js.map": "/github-deploy/static/js/3.105cecaa.chunk.js.map",
+    "index.html": "/github-deploy/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/github-deploy/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1a1057b0.chunk.js.LICENSE.txt": "/github-deploy/static/js/2.1a1057b0.chunk.js.LICENSE.txt",
+    "static/media/arsenal_emirates.e81ade20.jpg": "/github-deploy/static/media/arsenal_emirates.e81ade20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbf3d50c.js",
+    "static/js/2.1a1057b0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.247fc239.chunk.js"
+  ]
+}
